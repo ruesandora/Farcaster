@@ -1,5 +1,9 @@
 # Farcaster
 
+> şu sıralar [telegramda](https://t.me/RuesAnnouncement) çoşuyoruz.
+
+#
+
 
 ### Okunmalı!
 
