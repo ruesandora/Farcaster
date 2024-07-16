@@ -10,7 +10,7 @@ Daha sonra nodemize restart atıyoruz işlem bu kadar
 > 
 ```./hubble.sh down```
 > 
-```./hubble.sh down```
+```./hubble.sh up```
 
 
 Gelen güncellemeleri ise şu kod ile yapıyoruz
